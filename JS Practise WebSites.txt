@@ -1,0 +1,7 @@
+1. Js Hero  -- best website to practise basics of js
+
+2. Edabit for js basics
+
+3. Exercism.io  -- best website to practise Js
+
+4. Teaching Material.org  -- best website to learn js basics 
